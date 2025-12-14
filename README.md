@@ -51,7 +51,7 @@ Passionate software developer with expertise in building modern, scalable applic
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
-
+<!--
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -61,7 +61,6 @@ Passionate software developer with expertise in building modern, scalable applic
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trisatya-Programming&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7)
 
 </div>
-
 
 ---
 
@@ -75,7 +74,7 @@ Passionate software developer with expertise in building modern, scalable applic
 
 ###
 
----
+-->
 
 ## 📫 Let's Connect
 
