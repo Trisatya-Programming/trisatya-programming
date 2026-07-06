@@ -96,7 +96,5 @@ Feel free to reach out if you want to discuss technology, collaborate on project
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Trisatya-Programming&color=blueviolet&style=for-the-badge)
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trisatya-Programming&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=A177F7)
 
 </div>
