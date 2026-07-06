@@ -71,6 +71,7 @@ Passionate software developer with expertise in building modern, scalable applic
 ###
 
 <img src="https://raw.githubusercontent.com/trisatya-programming/trisatya-programming/output/snake.svg" alt="Snake animation" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trisatya-Programming&show_icons=true&theme=default)
 
 ###
 
